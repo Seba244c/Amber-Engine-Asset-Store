@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//seba244c.github.io/Amber-Engine-Asset-Store/static/css/main.d16098b0.chunk.css",
+    "main.js": "//seba244c.github.io/Amber-Engine-Asset-Store/static/js/main.2bd44358.chunk.js",
+    "main.js.map": "//seba244c.github.io/Amber-Engine-Asset-Store/static/js/main.2bd44358.chunk.js.map",
+    "runtime-main.js": "//seba244c.github.io/Amber-Engine-Asset-Store/static/js/runtime-main.1a1bccc3.js",
+    "runtime-main.js.map": "//seba244c.github.io/Amber-Engine-Asset-Store/static/js/runtime-main.1a1bccc3.js.map",
+    "static/js/2.a22a8d8a.chunk.js": "//seba244c.github.io/Amber-Engine-Asset-Store/static/js/2.a22a8d8a.chunk.js",
+    "static/js/2.a22a8d8a.chunk.js.map": "//seba244c.github.io/Amber-Engine-Asset-Store/static/js/2.a22a8d8a.chunk.js.map",
+    "index.html": "//seba244c.github.io/Amber-Engine-Asset-Store/index.html",
+    "static/css/main.d16098b0.chunk.css.map": "//seba244c.github.io/Amber-Engine-Asset-Store/static/css/main.d16098b0.chunk.css.map",
+    "static/js/2.a22a8d8a.chunk.js.LICENSE.txt": "//seba244c.github.io/Amber-Engine-Asset-Store/static/js/2.a22a8d8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a1bccc3.js",
+    "static/js/2.a22a8d8a.chunk.js",
+    "static/css/main.d16098b0.chunk.css",
+    "static/js/main.2bd44358.chunk.js"
+  ]
+}
