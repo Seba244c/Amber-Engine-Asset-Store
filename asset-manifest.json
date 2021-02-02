@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.25b6d1f2.chunk.css",
-    "main.js": "/static/js/main.3c0653da.chunk.js",
-    "main.js.map": "/static/js/main.3c0653da.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.82478198.js",
-    "runtime-main.js.map": "/static/js/runtime-main.82478198.js.map",
-    "static/js/2.a761fca3.chunk.js": "/static/js/2.a761fca3.chunk.js",
-    "static/js/2.a761fca3.chunk.js.map": "/static/js/2.a761fca3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.25b6d1f2.chunk.css.map": "/static/css/main.25b6d1f2.chunk.css.map",
-    "static/js/2.a761fca3.chunk.js.LICENSE.txt": "/static/js/2.a761fca3.chunk.js.LICENSE.txt"
+    "main.css": "/Amber-Engine-Asset-Store/static/css/main.25b6d1f2.chunk.css",
+    "main.js": "/Amber-Engine-Asset-Store/static/js/main.3c0653da.chunk.js",
+    "main.js.map": "/Amber-Engine-Asset-Store/static/js/main.3c0653da.chunk.js.map",
+    "runtime-main.js": "/Amber-Engine-Asset-Store/static/js/runtime-main.1702dc0a.js",
+    "runtime-main.js.map": "/Amber-Engine-Asset-Store/static/js/runtime-main.1702dc0a.js.map",
+    "static/js/2.a761fca3.chunk.js": "/Amber-Engine-Asset-Store/static/js/2.a761fca3.chunk.js",
+    "static/js/2.a761fca3.chunk.js.map": "/Amber-Engine-Asset-Store/static/js/2.a761fca3.chunk.js.map",
+    "index.html": "/Amber-Engine-Asset-Store/index.html",
+    "static/css/main.25b6d1f2.chunk.css.map": "/Amber-Engine-Asset-Store/static/css/main.25b6d1f2.chunk.css.map",
+    "static/js/2.a761fca3.chunk.js.LICENSE.txt": "/Amber-Engine-Asset-Store/static/js/2.a761fca3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.82478198.js",
+    "static/js/runtime-main.1702dc0a.js",
     "static/js/2.a761fca3.chunk.js",
     "static/css/main.25b6d1f2.chunk.css",
     "static/js/main.3c0653da.chunk.js"
